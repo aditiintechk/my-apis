@@ -1,3 +1,3 @@
 # My APIs
 
-[Haikyuu Quotes](./haikyuuQuotes.json)
+[Haikyuu Quotes](https://aditi002-holo.github.io/my-apis/haikyuuQuotes.json)
